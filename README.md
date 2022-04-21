@@ -1,6 +1,3 @@
-# Project2-Team3
-
-
 ![](smiley.jpg)
 
 ---
