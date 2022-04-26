@@ -18,7 +18,7 @@
 
 ## What is hypothesis?
 
-Exhibit a link between NYC Shootings and the Economic Cycle
+<p>Exhibit a link between NYC Shootings and the Economic Cycle
 ---
 
 ## Process
