@@ -19,7 +19,6 @@
 ## What is hypothesis?
 
 <p>Exhibit a link between NYC Shootings and the Economic Cycle
- 
 ___
 
 ## Process
