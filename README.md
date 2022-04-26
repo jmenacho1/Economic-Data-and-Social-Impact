@@ -12,13 +12,13 @@
 
 **What are we trying to solve for?**
 
-- [X] Seek to Use the Most Relevant Features of Shootings Dataset to Predict Future Period Shootings
-- [X] Combine Macroeconomic Data along with Primary Dataset to deduct causality between economic datapoints and NYC shootings
-- [X] Utilize NLP to Assess News Story sentiment and Marry to the Rest of the Dataset
+- [X] Seek to Use the Most Relevant Features of NYC Shootings Dataset to Predict Future Period Shootings
+- [X] Combine Macroeconomic Data along with Primary Dataset to deduct causality between Economic Datapoints and NYC shootings
+- [X] Utilize NLP to Assess News Story Sentiment and overlay with Primary Dataset
 
 ## What is hypothesis?
 
-<p>Exhibit a link between NYC Shootings and the Economic Cycle
+<p>A Softening in Economic Barometers leads to Social Unrest 
 
  ---
 
