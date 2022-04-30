@@ -1,5 +1,6 @@
 ![](smiley.jpg)
 
+![firstimage](/Images/crude_retail_1.jpg)
 ---
 
 # Economic Data and NYC Social Impact since 2006
@@ -33,7 +34,7 @@
 * Run and Evaluate Decision Tree Regression
 * Run and Evaluate Random Forrest Regression
 * Run and Evaluate Gradient Boosting Regressor
-* Change Feautres to be more Intuitive and Discrete
+* Change Features to be more Intuitive and Discrete
 * Rerun and Evaluate Linear Regression, Decision Tree, and Random Forrest Models
 * Perform NLP Analysis and attempt to incorporate into Dataset 
 
@@ -43,7 +44,7 @@
 ![Regr](DeadEnd.JPG)
 
 * NLP - API Data Permissioning and Inability to Attain Long-Term Historical Data
-    * NewsAPI, NYT, and Bloomberg deadends
+    * NewsAPI, NYT, and Bloomberg dead ends
 
 * Initial Regression Model proved to be too perfect because of Linearity between Features and Labels
 
@@ -62,4 +63,4 @@
 ## Caveats and Considerations
 * General Economic Prosperity enjoyed over scope of Dataset
 * Different Crime-battling regimes and Methods (i.e. Stop-And-Frisk)
-* Is Social Unrest that is Independant of Economic Malaise skewing Data?
+* Is Social Unrest that is Independent of Economic Malaise skewing Data?
