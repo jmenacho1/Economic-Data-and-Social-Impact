@@ -1,4 +1,4 @@
-![image1](/Images/smiley.jpg)
+![image1](/Images/smiley.JPG)
 
 ---
 
