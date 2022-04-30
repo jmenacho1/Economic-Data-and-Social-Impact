@@ -1,6 +1,5 @@
-![image1](smiley.jpg)
+![image1](/Images/smiley.jpg)
 
-![firstimage](/Images/crude_retail_1.jpg)
 ---
 
 # Economic Data and NYC Social Impact since 2006
@@ -41,16 +40,16 @@
 ---
 ## What Data/Modeling issues did we Run into?
 
-![image2](deadend.jpg)
+![image2](/Images/deadend.jpg)
 
 * NLP - API Data Permissioning and Inability to Attain Long-Term Historical Data
     * NewsAPI, NYT, and Bloomberg dead ends
 
 * Initial Regression Model proved to be too perfect because of Linearity between Features and Labels
 
-![image3](axis.jpg)
+![image3](/Images/axis.jpg)
 
-![image4](regression.jpg)
+![image4](/Images/regression.jpg)
 
 ## Where did we get our data?
 
