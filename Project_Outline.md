@@ -1,10 +1,3 @@
-# Project 2 - Team 3
-## Team Members
-* Steven Cherry II
-* Sasha Flores
-* Fred Fu
-* James Menacho
-
 
 ## Project Goal
 
@@ -16,9 +9,9 @@ Seek to Find features in NYC Shootings data that will help in predicting future 
 
 ## What is hypothesis?
 
-Try to show a link between shootings and economic cycle
+Exhibit a link between NYC Shootings and the Economic Cycle
 
-Features from Data to be used:
+## Features from Data to be used:
 
 
 1. Victim   
