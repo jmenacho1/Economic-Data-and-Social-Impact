@@ -1,4 +1,4 @@
-![](smiley.jpg)
+![image1](smiley.jpg)
 
 ![firstimage](/Images/crude_retail_1.jpg)
 ---
@@ -41,16 +41,16 @@
 ---
 ## What Data/Modeling issues did we Run into?
 
-![Regr](DeadEnd.JPG)
+![image2](deadend.jpg)
 
 * NLP - API Data Permissioning and Inability to Attain Long-Term Historical Data
     * NewsAPI, NYT, and Bloomberg dead ends
 
 * Initial Regression Model proved to be too perfect because of Linearity between Features and Labels
 
-![Regr](AXIS.JPG)
+![image3](axis.jpg)
 
-![Regr](regression.JPG)
+![image4](regression.jpg)
 
 ## Where did we get our data?
 
