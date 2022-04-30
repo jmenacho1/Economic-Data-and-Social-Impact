@@ -40,16 +40,16 @@
 ---
 ## What Data/Modeling issues did we Run into?
 
-![image2](/Images/deadend.jpg)
+![image2](/Images/deadend.JPG)
 
 * NLP - API Data Permissioning and Inability to Attain Long-Term Historical Data
     * NewsAPI, NYT, and Bloomberg dead ends
 
 * Initial Regression Model proved to be too perfect because of Linearity between Features and Labels
 
-![image3](/Images/axis.jpg)
+![image3](/Images/axis.JPG)
 
-![image4](/Images/regression.jpg)
+![image4](/Images/regression.JPG)
 
 ## Where did we get our data?
 
